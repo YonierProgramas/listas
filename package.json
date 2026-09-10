@@ -1,0 +1,13 @@
+{
+  "name": "taller-listas",
+  "version": "1.0.0",
+  "description": "Taller de listas en TypeScript para gestion de pedidos",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
